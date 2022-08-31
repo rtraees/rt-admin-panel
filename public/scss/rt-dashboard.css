@@ -56,6 +56,9 @@
   margin-left: 4px;
   line-height: 1.5;
 }
+.rt-left-menu .rt-left-menu-ul ul {
+  display: none;
+}
 
 .rt-left-menu-link {
   display: block;

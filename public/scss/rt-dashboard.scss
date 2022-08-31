@@ -65,10 +65,14 @@
         padding-left:$rt-padding-more;
     }
     .menu-title
-{
-    margin-left:$rt-margin;
-    line-height: 1.5;
-}
+    {
+        margin-left:$rt-margin;
+        line-height: 1.5;
+    }
+    .rt-left-menu-ul ul {
+        display: none;
+
+    }
 }
 .rt-left-menu-link
 {
